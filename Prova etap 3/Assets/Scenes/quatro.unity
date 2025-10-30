@@ -5055,7 +5055,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 0.49803922}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: 0, y: -101, z: 0}
   m_Size: {x: 100, y: 101, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -290545,7 +290545,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5202593328846109793, guid: 0b8e4c82ea06c4b4e80dbcc5e82a6e95, type: 3}
       propertyPath: nomeDaCena
-      value: dois
+      value: cinco
       objectReference: {fileID: 0}
     - target: {fileID: 6281881282919368470, guid: 0b8e4c82ea06c4b4e80dbcc5e82a6e95, type: 3}
       propertyPath: m_Name
