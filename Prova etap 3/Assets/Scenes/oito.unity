@@ -36822,6 +36822,10 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.14780283
       objectReference: {fileID: 0}
+    - target: {fileID: 5202593328846109793, guid: 0b8e4c82ea06c4b4e80dbcc5e82a6e95, type: 3}
+      propertyPath: nomeDaCena
+      value: nove
+      objectReference: {fileID: 0}
     - target: {fileID: 6281881282919368470, guid: 0b8e4c82ea06c4b4e80dbcc5e82a6e95, type: 3}
       propertyPath: m_Name
       value: portal

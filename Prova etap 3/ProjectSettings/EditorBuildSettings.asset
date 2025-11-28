@@ -23,6 +23,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/seis.unity
     guid: 01d114709d49e2d4dbe3ae243f0c45dd
+  - enabled: 1
+    path: Assets/Scenes/sete.unity
+    guid: 807598400e956fa4aabc96b49a3cdc17
+  - enabled: 1
+    path: Assets/Scenes/oito.unity
+    guid: 236fb679b84c540479260afe5fe7e165
+  - enabled: 1
+    path: Assets/Scenes/nove.unity
+    guid: 305bd1747cf320843b19b3cb13782f07
+  - enabled: 1
+    path: Assets/Scenes/dez.unity
+    guid: 635d930ca36a920419b1ef04d30d2976
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
